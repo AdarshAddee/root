@@ -1,0 +1,48 @@
+#! /bin/bash
+clear
+echo -e "\e[1;31m"
+
+echo "Hit ENTER to continue..."
+read
+
+clear
+
+echo " ██▀███      ▒█████      ▒█████     ▄▄▄█████▓"
+echo "▓██ ▒ ██▒   ▒██▒  ██▒   ▒██▒  ██▒   ▓  ██▒ ▓▒"
+echo "▓██ ░▄█ ▒   ▒██░  ██▒   ▒██░  ██▒   ▒ ▓██░ ▒░"
+echo "▒██▀▀█▄     ▒██   ██░   ▒██   ██░   ░ ▓██▓ ░ "
+echo "░██▓ ▒██▒   ░ ████▓▒░   ░ ████▓▒░     ▒██▒ ░ "
+echo "░ ▒▓ ░▒▓░   ░ ▒░▒░▒░    ░ ▒░▒░▒░      ▒ ░░   "
+echo "  ░▒ ░ ▒░     ░ ▒ ▒░      ░ ▒ ▒░        ░    "
+echo "  ░░   ░    ░ ░ ░ ▒     ░ ░ ░ ▒       ░      "
+echo "   ░            ░ ░         ░ ░              "
+echo -e "\e[1;36m                                 ROOT TERMUX"
+
+echo -e "\e[1;33m"
+
+echo "            YouTube: Adarsh Addee"
+echo "            YouTube: Mr Idealhat"
+echo "            YouTube: Mr Ideal"
+echo -e "\e[0;34m\n"
+echo "Please wait...?"
+sleep 10
+
+mv  ../usr/etc/bash.bashrc ../usr/etc/bash.bashrc_old
+cp -v bash.bashrc ../usr/etc/bash.bashrc
+
+apt-get update && apt-get upgrade -y
+apt-get install fish  ncurses-utils proot proot-distro tsu fakeroot parted -y
+
+sleep 0.5
+echo -e "\e[0m"
+clear
+echo "TYPE root TO ACCESS ROOT PERMISSIONS"
+read
+
+clear
+echo -e "\e[1;33m"
+
+echo "            YouTube: Adarsh Addee"
+echo "            YouTube: Mr Idealhat"
+echo "            YouTube: Mr Ideal"
+echo -e "\e[0;34m\n"
