@@ -27,8 +27,8 @@ echo -e "\e[0;34m\n"
 echo "Please wait...?"
 sleep 10
 
-mv  ../usr/etc/bash.bashrc ../usr/etc/bash.bashrc_old
-cp -v bash.bashrc ../usr/etc/bash.bashrc
+mv  ~/../usr/etc/bash.bashrc ../usr/etc/bash.bashrc_old
+cp -v bash.bashrc ~/../usr/etc/bash.bashrc
 
 apt-get update && apt-get upgrade -y
 apt-get install fish  ncurses-utils proot proot-distro tsu fakeroot parted -y
