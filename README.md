@@ -11,5 +11,9 @@ Root tool is created for the root access in termux without rooting your device. 
 
 <pre>./main</pre>
 
+# Add-ons
+<pre>fish</pre>
+You can use fish command to make your termux more useful
+
 # One line Installation
 <pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.com/adarshaddee/root.git</pre>
