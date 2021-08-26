@@ -16,8 +16,7 @@ Root tool is created for the root access in termux without rooting your device. 
 
 # Add-ons
 <pre>fish</pre>
-You can use fish command to make your termux more useful
-
+You can use fish command to make your termux more attractive.
 <centre>
 ![](images/Img2.jpg)
 </centre>
