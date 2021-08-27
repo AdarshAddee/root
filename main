@@ -1,4 +1,9 @@
 #! /bin/bash
+
+# Created By Adarsh Addee
+# Aim: To Access Root Privileges in Termux
+# Date: 27 Aug 2021
+
 clear
 echo -e "\e[1;31m"
 
