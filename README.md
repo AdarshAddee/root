@@ -28,3 +28,6 @@ You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 
 # One line Installation
 <pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.com/adarshaddee/root.git</pre>
+
+# Copyright
+<pre>© Copyright credits goes to Adarsh Addee. This tool is public tool anyone can use this tool.</pre>
