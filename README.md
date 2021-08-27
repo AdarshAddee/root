@@ -1,8 +1,14 @@
 # Root
-Root tool is created for the root access in termux without rooting your device. This will help termux users to access the root permission in termux without rooting their device. After rooting there termux they can access all the root privileges in termux and enjoy the linux environment in termux with root permission without any rooting. You can use the Add-ons to look your termux more attractive.
+Root is an automated tool which help you to gain to access of fake root privileges and real root privileges without rooting your device. You don't need to install any other OS to gain the root privileges in your termux. This tool(ROOT) is specifically made for termux and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access.<br><br>
 <centre>
 ![](images/Img1.jpg)
 </centre>
+
+# Fake Root Privileges
+This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
+
+# Real Root Privileges
+This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>root</pre> in your termux. And here you go, You have access the real root privileges in termux without rooting your device just with This toop(Root)
 
 # Installation
 <pre>apt-get update && apt-get upgrade-y</pre>
@@ -15,8 +21,7 @@ Root tool is created for the root access in termux without rooting your device. 
 <pre>./main</pre>
 
 # Add-ons
-<pre>fish</pre>
-You can use fish command to make your termux more attractive.
+You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 <centre>
 ![](images/Img2.jpg)
 </centre>
