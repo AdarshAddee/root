@@ -21,7 +21,7 @@ apt-get install fish  ncurses-utils proot proot-distro tsu fakeroot parted -y
 
 clear
 
-
+echo -e "\e[1;31m"
 echo " ██▀███      ▒█████      ▒█████     ▄▄▄█████▓"
 echo "▓██ ▒ ██▒   ▒██▒  ██▒   ▒██▒  ██▒   ▓  ██▒ ▓▒"
 echo "▓██ ░▄█ ▒   ▒██░  ██▒   ▒██░  ██▒   ▒ ▓██░ ▒░"
