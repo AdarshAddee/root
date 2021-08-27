@@ -31,7 +31,7 @@ echo "░ ▒▓ ░▒▓░   ░ ▒░▒░▒░    ░ ▒░▒░▒░
 echo "  ░▒ ░ ▒░     ░ ▒ ▒░      ░ ▒ ▒░        ░    "
 echo "  ░░   ░    ░ ░ ░ ▒     ░ ░ ░ ▒       ░      "
 echo "   ░            ░ ░         ░ ░              "
-echo -e "\e[1;36m                                 ROOT TERMUX"
+echo -e "\e[1;33m                                 ROOT TERMUX"
 
 echo -e "\e[1;32m"
 
@@ -47,12 +47,14 @@ echo "[*] Collecting packages"
 sleep 2
 echo "[*] Preparing files"
 sleep 2
-echo "[*] Providing ROOT access\n\n"
+echo "[*] Providing ROOT access"
 sleep 7
 sleep 8
 
 sleep 0.5
 
+echo
+echo
 echo -e "\e[1;34mType \e[1;32mfakeroot\e[1;34m to access fake root privileges"
 echo -e "TYPE \e[1;32mroot\e[1;34m TO ACCESS REAL ROOT PRIVILEGES"
 read
