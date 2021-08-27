@@ -37,7 +37,7 @@ sleep 0.5
 echo -e "\e[0m"
 clear
 echo "Type fakeroot to access fake root privileges"
-echo "TYPE root TO ACCESS ROOT PRIVILEGES"
+echo "TYPE root TO ACCESS REAL ROOT PRIVILEGES"
 read
 
 clear
