@@ -36,8 +36,8 @@ apt-get install fish  ncurses-utils proot proot-distro tsu fakeroot parted -y
 sleep 0.5
 echo -e "\e[0m"
 clear
-echo "Type fakeroot to access fake root privileges"
-echo "TYPE root TO ACCESS REAL ROOT PRIVILEGES"
+echo -e "Type \e[1;32mfakeroot\e[1;0m to access fake root privileges"
+echo -e "TYPE \e[1;32mroot\e[1;0m TO ACCESS REAL ROOT PRIVILEGES"
 read
 
 clear
