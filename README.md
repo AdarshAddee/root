@@ -8,7 +8,7 @@ Root is an automated tool which help you to gain to access of fake root privileg
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
 
 # Real Root Privileges
-This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>root</pre> in your termux. And here you go, You have access the real root privileges in termux without rooting your device just with This toop(Root)
+This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>root</pre> in your termux. And here you go, You have access the real root privileges in termux without rooting your device just with This tool(Root)
 
 # Installation
 <pre>apt-get update && apt-get upgrade-y</pre>
