@@ -5,7 +5,7 @@ Root is an automated tool which help you to gain to access of fake root privileg
 </centre>
 
 # Subscribe
-hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mr-idealhat.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search "Adarsh Addee Vlogs" on YouTube and subscribe for my vlog videos. 
+hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mr-idealhat.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/channel/UCvAp_a_UY_TnAIZlpX8UmMg">"Adarsh Addee Vlogs"</a> on YouTube and subscribe for my vlog videos. 
 
 # Fake Root Privileges
 This tool helps you to access the fake root privileges in termux. To access the fake root privileges in termux, just type <pre>fakeroot</pre> in termux. And here you go, Now you have gain the fake root privileges access in termux.
