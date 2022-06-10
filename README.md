@@ -14,7 +14,7 @@ This tool helps you to access the fake root privileges in termux. To access the 
 This tool also helps to access the real root privileges in termux. Which is more powerful and stronger than fake root privileges. To access the real root privileges just type <pre>root</pre> in your termux. And here you go, You have access the real root privileges in termux without rooting your device just with This tool(Root)
 
 # Installation
-<pre>apt-get update && apt-get upgrade-y</pre>
+<pre>apt-get update && apt-get upgrade -y</pre>
 <pre>apt-get install git -y</pre>
 <pre>git clone https://github.com/adarshaddee/root.git</pre>
 <pre>cd root</pre>
