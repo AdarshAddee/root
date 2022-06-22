@@ -1,8 +1,8 @@
 # Root
 > Root is an automated tool which help you to gain to access of fake root privileges and real root privileges without rooting your device. You don't need to install any other OS to gain the root privileges in your termux. This tool(ROOT) is specifically made for termux and termux users. This tool will also help you to gain the look of Kali-Linux in your termux with root access.<br><br>
-<centre>
-![](images/Img1.jpg)
-</centre>
+
+# Watch Video
+[![Watch the video](https://img.youtube.com/vi/LAJfrWPm4NU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LAJfrWPm4NU)
 
 # Subscribe
 hey there, You can subscribe <a href="https://youtube.com/c/mridealhat">Mr Idealhat</a> for interesting videos OR follow <a href="https://mridealhatofficial.blogspot.com">Mr Idealhat</a> Blogger website for interesting blogs. Search <a href="https://www.youtube.com/channel/UCvAp_a_UY_TnAIZlpX8UmMg">"Adarsh Addee Vlogs"</a> on YouTube and subscribe for my vlog videos. 
@@ -26,8 +26,6 @@ You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 <centre>
 ![](images/Img2.jpg)
 </centre>
-
-[![Watch the video](https://img.youtube.com/vi/LAJfrWPm4NU/maxresdefault.jpg)](https://www.youtube.com/watch?v=LAJfrWPm4NU)
 
 # One line Installation
 <pre>apt-get update && apt upgrade-y && apt-get install git -y && git clone https://github.com/adarshaddee/root.git</pre>
