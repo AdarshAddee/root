@@ -23,6 +23,12 @@ This tool also helps to access the real root privileges in termux. Which is more
 <pre>chmod +x main</pre>
 <pre>./main</pre>
 
+# Uninstall
+You can uninstall root with the following commands wihch are shown here:
+<pre>cd root</pre>
+<pre>chmod +x uninstall.sh</pre>
+<pre>./uninstall.sh</pre>
+
 # Add-ons
 You can use <pre>fish</pre> command to make your termux more attractive.<br><br>
 
