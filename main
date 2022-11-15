@@ -42,14 +42,13 @@ echo -e "\e[1;36m\n"
 echo "[*] Automation started"
 sleep 1
 echo "[*] Syncing"
-sleep 5
+sleep 3
 echo "[*] Collecting packages"
 sleep 2
 echo "[*] Preparing files"
 sleep 2
 echo "[*] Providing ROOT access"
 sleep 7
-sleep 8
 echo "[*] DONE"
 
 sleep 1.5
