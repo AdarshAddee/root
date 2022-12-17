@@ -39,18 +39,15 @@ echo -e "\e[1;32m"
 
 echo "            YouTube: Adarsh Addee"
 echo "            YouTube: Mr Idealhat"
-echo "            YouTube: Mr Ideal"
 echo -e "\e[1;36m\n"
 echo "[*] Automation started"
 sleep 1
 echo "[*] Syncing"
-sleep 3
+sleep 0.5
 echo "[*] Collecting packages"
-sleep 2
 echo "[*] Preparing files"
-sleep 2
+sleep 0.5
 echo "[*] Providing ROOT access"
-sleep 7
 echo "[*] DONE"
 
 sleep 1.5
